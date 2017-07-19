@@ -1,4 +1,5 @@
 Cold and dry, but my favourite colour!
 The two moons are a problem for Wolfie.
 However, the mummy will appreciate the lack of humidity.
-This is a different line to the one in Wolfie's copy!
+This conflict is fixed
+
